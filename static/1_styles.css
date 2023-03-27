@@ -1,0 +1,135 @@
+/******************************Tag Selectors*************************************/
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 1em;
+}
+
+
+h1 {
+    font-size: 5.625rem;
+    font-family: 'Sacramento', cursive;
+    color: #362706;
+    line-height: 1;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5eml;
+    font-weight: normal;
+    margin: 10px auto 10px auto;
+    color: #362706;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+a {
+color: #11999E;
+}
+
+hr {
+border: 5px;
+width: 5%;
+border-style: dotted none none none;
+color: gray;
+margin: 50px auto;
+
+}
+/******************************Class Selectors***********************************/
+.top-container {
+    background-color: #E9E5D6;
+    position: relative;
+    padding-top: 100px;
+    padding-bottom: 0;
+
+}
+
+.top-container h1 {
+    margin-top: 50px;
+    margin-bottom: 0;
+    margin-start: 0;
+    margin-end: 0;
+}
+
+.middle-container {
+    background-color: #ACB992;
+}
+
+.middle-container h2 {
+  color: #362706;
+  }
+
+.middle-container h3 {
+  color: #362706;
+  }
+
+    p {
+    color: #464E2E;
+    }
+
+
+.bottom-container {
+    background-color: #E9E5D6;
+    padding: 20px;
+}
+
+.engine {
+   /* text-decoration: underline; */
+}
+
+.cloud_1 {
+    position: absolute;
+    right: 300px;
+    top: 70px;
+}
+
+.cloud_2 {
+    position: absolute;
+    left: 24%;
+    bottom: 300px;
+}
+
+.skill_pics {
+width: 25%;
+float: left;
+margin-right: 30px;
+}
+
+.bottom-container a {
+margin: 20px;
+text-decoration: none;
+
+}
+
+.skill-row {
+width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+line-height: 2;
+}
+
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #362706;
+  font-size: 20px;
+  background: #E9E5D6;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.btn:hover {
+  background: #464E2E;
+  text-decoration: none;
+}
+
+.contact-me {
+padding-bottom: 50px;
+}
